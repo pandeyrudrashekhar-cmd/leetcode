@@ -1,49 +1,27 @@
 class Solution {
 public:
-
-    int solve(int i, int j, vector<vector<int>>& matrix,
-              vector<vector<int>>& dp,
-              vector<vector<bool>>& vis) {
-
-        int n = matrix.size();
-
-        // Out of bounds
-        if (j < 0 || j >= n)
-            return INT_MAX;
-
-        // Base case
-        if (i == 0)
-            return matrix[0][j];
-
-        // Already computed
-        if (vis[i][j])
-            return dp[i][j];
-
-        vis[i][j] = true;
-
-        int up = solve(i - 1, j, matrix, dp, vis);
-        int leftDiagonal = solve(i - 1, j - 1, matrix, dp, vis);
-        int rightDiagonal = solve(i - 1, j + 1, matrix, dp, vis);
-
-        dp[i][j] = matrix[i][j] + min({up, leftDiagonal, rightDiagonal});
-
-        return dp[i][j];
-    }
-
     int minFallingPathSum(vector<vector<int>>& matrix) {
-
-        int n = matrix.size();
-
-        vector<vector<int>> dp(n, vector<int>(n, 0));
-        vector<vector<bool>> vis(n, vector<bool>(n, false));
-
-        int ans = INT_MAX;
-
-        // Try ending at every column of the last row
-        for (int j = 0; j < n; j++) {
-            ans = min(ans, solve(n - 1, j, matrix, dp, vis));
+       int n=matrix.size();
+       vector<vector<int>>dp(n,vector<int>(n,0));
+       //base case:- first row same rhega
+       for(int j=0; j<n; j++){
+        dp[0][j]=matrix[0][j];
+       } 
+       //fill dp tble
+       for(int i=1; i<n; i++){
+        for(int j=0; j<n; j++){
+            int up=dp[i-1][j];
+            int leftdiagonal=INT_MAX;
+            if(j>0) leftdiagonal=dp[i-1][j-1];
+            int rightdiagonal=INT_MAX;
+            if(j<n-1) rightdiagonal=dp[i-1][j+1];
+            dp[i][j]=matrix[i][j]+min(up,min(leftdiagonal,rightdiagonal));
         }
-
-        return ans;
+       }
+       int ans=INT_MAX;
+       for(int j=0; j<n; j++){
+        ans=min(ans,dp[n-1][j]);
+       }
+       return ans;
     }
 };
