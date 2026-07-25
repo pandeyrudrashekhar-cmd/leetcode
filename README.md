@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0268-missing-number) |
+| [0416-partition-equal-subset-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0931-minimum-falling-path-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
