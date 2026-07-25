@@ -1,37 +1,6 @@
 class Solution {
 public:
 
-    bool solve(int index, int target,
-               vector<int>& nums,
-               vector<vector<int>>& dp)
-    {
-        // Target achieved
-        if(target == 0)
-            return true;
-
-        // Only first element left
-        if(index == 0)
-            return nums[0] == target;
-
-        // Already calculated
-        if(dp[index][target] != -1)
-            return dp[index][target];
-
-        // Don't take current element
-        bool notTake = solve(index-1, target, nums, dp);
-
-        bool take = false;
-
-        // Take current element
-        if(nums[index] <= target)
-            take = solve(index-1,
-                         target-nums[index],
-                         nums,
-                         dp);
-
-        return dp[index][target] = take || notTake;
-    }
-
     bool canPartition(vector<int>& nums)
     {
         int n = nums.size();
@@ -41,15 +10,43 @@ public:
         for(int x : nums)
             sum += x;
 
-        // Odd sum can never be divided equally
+        // Odd sum cannot be partitioned equally
         if(sum % 2 != 0)
             return false;
 
         int target = sum / 2;
 
-        vector<vector<int>> dp(n,
-                vector<int>(target+1,-1));
+        // dp[i][t] = Can we make sum t
+        // using elements from 0 to i?
+        vector<vector<bool>> dp(n,
+                vector<bool>(target+1,false));
 
-        return solve(n-1,target,nums,dp);
+        // Sum 0 is always possible
+        for(int i=0;i<n;i++)
+            dp[i][0]=true;
+
+        // Using first element
+        if(nums[0] <= target)
+            dp[0][nums[0]] = true;
+
+        // Fill DP table
+        for(int i=1;i<n;i++)
+        {
+            for(int t=1;t<=target;t++)
+            {
+                // Don't take
+                bool notTake = dp[i-1][t];
+
+                bool take = false;
+
+                // Take current element
+                if(nums[i] <= t)
+                    take = dp[i-1][t-nums[i]];
+
+                dp[i][t] = take || notTake;
+            }
+        }
+
+        return dp[n-1][target];
     }
 };
