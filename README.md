@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0860-lemonade-change](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0860-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Quickselect
 |  |
