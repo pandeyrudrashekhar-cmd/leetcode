@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
