@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0268-missing-number) |
