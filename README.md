@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0860-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0324-wiggle-sort-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
