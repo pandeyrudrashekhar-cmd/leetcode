@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0056-merge-intervals) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
