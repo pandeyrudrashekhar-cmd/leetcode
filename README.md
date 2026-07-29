@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0169-majority-element) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
