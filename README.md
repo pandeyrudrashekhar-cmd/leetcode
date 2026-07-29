@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -170,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
