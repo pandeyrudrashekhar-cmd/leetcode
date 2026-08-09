@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0860-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0455-assign-cookies) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Simulation
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Quickselect
 |  |
 | ------- |
