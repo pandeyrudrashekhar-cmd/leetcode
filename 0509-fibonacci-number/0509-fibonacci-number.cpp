@@ -1,12 +1,16 @@
 class Solution {
 public:
-int fibo(int n, vector<int>& dp){
-    if(n<=1) return n;
+int fibo(int n, vector<int>&dp){
+    //base case
+    if(n<2) return n;
+    //dp condition base case
     if(dp[n]!=-1) return dp[n];
-    return dp[n]=fibo(n-1,dp)+fibo(n-2,dp);
+     dp[n]=fibo(n-1,dp)+fibo(n-2,dp);
+     return dp[n];
 }
     int fib(int n) {
-       vector<int>dp(n+1,-1);
-     return fibo(n,dp);
+        
+        vector<int>dp(n+1,-1);
+        return fibo(n,dp);
     }
 };
