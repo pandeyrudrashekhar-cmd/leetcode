@@ -1,26 +1,24 @@
 class Solution {
-    public void sortColors(int[] arr) {
-        int n=arr.length;
+    public void sortColors(int[] nums) {
+        int n=nums.length;
         int low=0;
-        int mid=0;
         int high=n-1;
+        int mid=0;
         while(mid<=high){
-            if(arr[mid]==0){
-               // swap(arr[low],arr[mid]);
-               int temp=arr[low];
-               arr[low]=arr[mid];
-               arr[mid]=temp;
+            if(nums[mid]==0){
+              //  swap(nums[mid],nums[low]);
+              int temp=nums[low];
+              nums[low]=nums[mid];
+              nums[mid]=temp;
                 low++;
                 mid++;
             }
-            else if(arr[mid]==1) mid++;
+            else if(nums[mid]==1) mid++;
             else{
-                //swap(arr[mid],arr[high]);
-                int temp=arr[mid];
-                arr[mid]=arr[high];
-                arr[high]=temp;
-
-
+               // swap(nums[mid],nums[high]);
+               int temp=nums[mid];
+               nums[mid]=nums[high];
+               nums[high]=temp;
                 high--;
             }
         }
