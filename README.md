@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
