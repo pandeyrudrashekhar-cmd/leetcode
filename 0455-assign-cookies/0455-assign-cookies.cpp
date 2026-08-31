@@ -4,14 +4,21 @@ public:
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
 
-        int child=0;
-        int cookie=0;
-        //try to assign cookies
-        while(child<g.size() && cookie<s.size()){
-            if(s[cookie]>=g[child]) child++;
-            //move to next in both case either cookie was assigned or cookie was too small and discarded
-            cookie++;
+        int i=0;//point to child
+        //point to cookie
+        int j=0;
+        int satisfied=0;//no of child satisfies
+        while(i<g.size() && j<s.size()){
+            if(s[j]>=g[i]){
+                satisfied++;
+                i++;
+                j++;
+            }
+            else{
+                //cookie to small-> try bigger one
+                j++;
+            }
         }
-        return child;
+        return satisfied;
     }
 };
