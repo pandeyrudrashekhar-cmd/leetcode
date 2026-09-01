@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0142-linked-list-cycle-ii) |
