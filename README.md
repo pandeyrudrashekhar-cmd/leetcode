@@ -259,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0148-sort-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
