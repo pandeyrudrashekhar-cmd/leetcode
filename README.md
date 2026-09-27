@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0063-unique-paths-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0057-insert-interval) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0324-wiggle-sort-ii) |
