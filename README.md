@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0057-insert-interval) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0063-unique-paths-ii) |
 | [0867-transpose-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/3498-reverse-degree-of-a-string) |
