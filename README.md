@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0063-unique-paths-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
