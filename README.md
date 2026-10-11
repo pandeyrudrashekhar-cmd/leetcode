@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0063-unique-paths-ii) |
+| [0867-transpose-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
