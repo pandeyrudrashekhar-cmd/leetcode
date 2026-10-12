@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
 |  |
 | ------- |
