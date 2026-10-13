@@ -1,41 +1,24 @@
 class Solution {
 public:
-
-    void solve(int index,
-               vector<int>& arr,
-               vector<int>& ds,
-               vector<vector<int>>& ans)
-    {
-        // Base Case
-        if(index == arr.size())
-        {
-            ans.push_back(ds);
-            return;
-        }
-
-       
-        // Choice 1 : Take current element
-        
-        ds.push_back(arr[index]);
-
-        solve(index + 1, arr, ds, ans);
-
-        // Undo the choice (Backtracking)
-        ds.pop_back();
-
-       
-        // Choice 2 : Don't take
-       
-        solve(index + 1, arr, ds, ans);
+void solve(int idx, vector<int>& arr, vector<int>& curr,vector<vector<int>>& ans){
+    if(idx==arr.size()){
+        ans.push_back(curr);
+        return;
     }
+    //choice 1:- take the curr element
+    curr.push_back(arr[idx]);
+    solve(idx+1, arr, curr,ans);
 
-    vector<vector<int>> subsets(vector<int>& arr)
-    {
-        vector<vector<int>> ans;
-        vector<int> ds;
-
-        solve(0, arr, ds, ans);
-
-        return ans;
+    //undo the choice
+    curr.pop_back();
+    //choice2:- skip the curr option
+    solve(idx+1,arr,curr,ans);
+}
+    vector<vector<int>> subsets(vector<int>& arr) {
+        vector<int>curr;
+        vector<vector<int>>ans;
+       solve(0,arr,curr,ans);
+       return ans;
+        
     }
 };
