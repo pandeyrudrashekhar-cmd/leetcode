@@ -1,60 +1,22 @@
 class Solution {
 public:
 
-    void solve(int index,
-               int target,
-               vector<int>& candidates,
-               vector<int>& ds,
-               vector<vector<int>>& ans)
-    {
-        // Base Case: Target achieved
-        if(target == 0)
-        {
-            ans.push_back(ds);
-            return;
-        }
-
-        // Base Case: No more elements
-        if(index == candidates.size())
-            return;
-
-        // -----------------------------
-        // Choice 1 : Take current element
-        // -----------------------------
-        if(candidates[index] <= target)
-        {
-            // Choose
-            ds.push_back(candidates[index]);
-
-            // Explore
-            // Stay on same index because reuse is allowed
-            solve(index,
-                  target - candidates[index],
-                  candidates,
-                  ds,
-                  ans);
-
-            // Undo (Backtrack)
-            ds.pop_back();
-        }
-
-        // -----------------------------
-        // Choice 2 : Skip current element
-        // -----------------------------
-        solve(index + 1,
-              target,
-              candidates,
-              ds,
-              ans);
+void solve(vector<vector<int>>&ans,vector<int>& candidates, vector<int>& curr, int target, int idx){
+    if(target==0){
+        ans.push_back(curr);
+        return;
     }
-
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target)
-    {
-        vector<vector<int>> ans;
-        vector<int> ds;
-
-        solve(0, target, candidates, ds, ans);
-
+    if(target<0) return;
+    for(int i=idx; i<candidates.size(); i++){
+        curr.push_back(candidates[i]);
+        solve(ans,candidates,curr,target-candidates[i],i);
+        curr.pop_back();
+    }
+}
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>>ans;
+        vector<int>curr;
+        solve(ans,candidates,curr,target,0);
         return ans;
     }
 };
