@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0198-house-robber) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0374-guess-number-higher-or-lower) |
