@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2643-row-with-maximum-ones](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
