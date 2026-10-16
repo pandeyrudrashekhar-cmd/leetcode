@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0216-combination-sum-iii) |
 ## Breadth-First Search
 |  |
