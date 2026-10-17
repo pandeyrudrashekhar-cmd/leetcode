@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0143-reorder-list) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
