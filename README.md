@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0435-non-overlapping-intervals) |
