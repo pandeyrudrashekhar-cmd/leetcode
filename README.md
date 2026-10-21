@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0268-missing-number) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0547-number-of-provinces) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pandeyrudrashekhar-cmd/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
